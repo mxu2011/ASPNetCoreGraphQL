@@ -1,11 +1,11 @@
 # ASPNetCoreGraphQL
-Sample project based on <a href="https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core">the blog post</a> demonstrating how to build a GraphQL service powered by ASP.NET Core 2, Entity Framework Core and <a href="https://github.com/graphql-dotnet/graphql-dotnet" target="_blank">graphql-dotnet</a>.
+Sample project based on <a href="https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core">the blog post</a> demonstrating how to build a GraphQL service powered by ASP.NET Core 2.2, Entity Framework Core and <a href="https://github.com/graphql-dotnet/graphql-dotnet" target="_blank">graphql-dotnet</a>.
 
 <img src="https://fullstackmark.com/img/posts/17/interactive-graphql-queries.gif" />
 
 
 ## Development Environment
--  .NET Core 2.0 SDK
+-  .NET Core 2.2 SDK
 - Visual Studio Code v1.21.1 (Should also work in VS2017)
 - Sql Server Management Studio 2017
  
